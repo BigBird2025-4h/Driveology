@@ -166,38 +166,6 @@ Grant permissions when prompted.
 
 ---
 
-# Project Structure
-
-```text
-Driveology
-│
-├── assets/
-│
-├── components/
-│   ├── XPBar.js
-│   ├── LevelBadge.js
-│   └── ...
-│
-├── screens/
-│   ├── DriveScreen.js
-│   ├── HistoryScreen.js
-│   ├── HomeScreen.js
-│   └── ...
-│
-├── utils/
-│   ├── Coach.js
-│   ├── Storage.js
-│   ├── TripModel.js
-│   ├── XPSystem.js
-│   └── SpeedLimitService.js
-│
-├── App.js
-│
-└── package.json
-```
-
----
-
 # Speed Limit Data
 
 Driveology retrieves road speed limits using OpenStreetMap road data through the Overpass API.
