@@ -6,9 +6,11 @@
 <img width="180" height="400" alt="IMG_1819" src="https://github.com/user-attachments/assets/b3abfa6c-a3d9-4c72-8b9c-fcb7bfa5d533" />
 <img width="180" height="300" alt="IMG_1824" src="https://github.com/user-attachments/assets/d5a1311e-39cf-45b3-8996-bab0e800fe1b" />
 
-Driveology is a mobile driver-feedback application built with React Native and Expo. The app monitors driving behavior in real time using on-device sensors and GPS data, then provides a driving score, trip statistics, and personalized feedback after each drive.
+Driveology is a mobile driver-feedback app built with React Native and Expo. The app monitors driving behavior in real time using on-device sensors and GPS data, then provides a driving score, trip statistics, and personalized feedback after each drive.
 
-The goal of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations.
+The goal of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations. Like 20 minutes after I uploaded the repo, I realized theres an app that does the exact same thing, that has the exact same name 😭😭😭😭😭😭😭😭 https://www.fbfs.com/insurance/auto-insurance/driveology however the one I made is completely open source, doesn't collect your information, and doesn't affect your insurance rates (obviously).
+
+If you have any suggestions please email me, I would love to improve the app. 
 
 ---
 
@@ -75,7 +77,7 @@ Download:
 
 https://nodejs.org
 
-Verify installation:
+verify that it installed:
 
 ```bash
 node -v
@@ -84,19 +86,19 @@ npm -v
 
 ### Expo Go
 
-Install Expo Go on your mobile device:
+Install Expo go on your mobile device:
 
 ---
 
 # Installation
 
-Clone the repository:
+Clone the repo:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Driveology.git
 ```
 
-Enter the project directory:
+go into the project directory:
 
 ```bash
 cd Driveology
@@ -138,7 +140,13 @@ A QR code will appear in the terminal and browser.
 2. Tap "Scan QR Code"
 3. Scan the QR code
 
-The app should launch automatically.
+The app should launch automatically. you can also use 
+
+```bash
+npx expo publish
+```
+
+to be able to access your app whenever you want. It will be at the bottom of your screen in Projects.
 
 ---
 
