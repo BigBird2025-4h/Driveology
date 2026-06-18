@@ -148,21 +148,13 @@ Driveology requires the following permissions:
 
 ### Location
 
-Used for:
-
-- Speed calculation
-- Route tracking
-- Distance calculation
-- Speed limit detection
+Used for speed calculation, route tracking, distance calculation, and speed limit detection.
 
 ### Motion Sensors
 
-Used for:
+Used for hard brake and phone usage detection.
 
-- Hard brake detection
-- Phone usage detection
-
-Grant permissions when prompted.
+Grant all permissions when prompted.
 
 ---
 
