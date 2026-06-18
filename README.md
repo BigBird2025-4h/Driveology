@@ -1,5 +1,11 @@
 # Driveology
 
+<img width="1170" height="2532" alt="IMG_1813" src="https://github.com/user-attachments/assets/d5422c5e-bd31-4f2d-9671-2b54a66b9795" />
+<img width="1170" height="2532" alt="IMG_1816" src="https://github.com/user-attachments/assets/f7b391ca-59a4-4b54-9cef-377254f1d32c" />
+<img width="1170" height="2532" alt="IMG_1812" src="https://github.com/user-attachments/assets/0af8f7a4-e7c0-4a94-b204-b9de36f8c10e" />
+
+
+
 Driveology is a mobile driver-feedback application built with React Native and Expo. The app monitors driving behavior in real time using on-device sensors and GPS data, then provides a driving score, trip statistics, and personalized feedback after each drive.
 
 The goal of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations.
