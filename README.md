@@ -237,11 +237,11 @@ Potential future additions include:
 
 # License
 
-This project is provided for educational purposes.
+Idrk i was told to put something here but i don't really care who uses this code 
 
 ---
 
-# Authors
+# Author
 
 Noah H. A.K.A. The Certified Chud
 
