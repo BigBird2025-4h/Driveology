@@ -8,7 +8,7 @@
 
 Driveology is a mobile driver-feedback app built with React Native and Expo. The app monitors driving behavior in real time using on-device sensors and GPS data, then provides a driving score, trip statistics, and personalized feedback after each drive.
 
-The goal of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations. Like 20 minutes after I uploaded the repo, I realized theres an app that does the exact same thing, that has the exact same name 😭😭😭😭😭😭😭😭 https://www.fbfs.com/insurance/auto-insurance/driveology however the one I made is completely open source, doesn't collect your information, and doesn't affect your insurance rates (obviously).
+The goal of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations. Like 20 minutes after I uploaded the repo, I realized theres an app that does the exact same thing, that has the exact same name 😭😭😭😭😭😭😭😭 https://www.fbfs.com/insurance/auto-insurance/driveology however the one I made is completely open source, doesn't collect your information, and doesn't affect your insurance rates? i also may have forgotten to mention that its better in every single possible way 😉
 
 If you have any suggestions please email me, I would love to improve the app. 
 
