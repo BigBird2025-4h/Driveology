@@ -8,7 +8,7 @@
 
 Driveology is a mobile driver-feedback app built with React Native and Expo. The app monitors driving behavior in real time using on-device sensors and GPS data, then provides a driving score, trip statistics, and personalized feedback after each drive.
 
-The goal of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations. Like 20 minutes after I uploaded the repo, I realized theres an app that does the exact same thing, that has the exact same name 😭😭😭😭😭😭😭😭 https://www.fbfs.com/insurance/auto-insurance/driveology however the one I made is completely open source, doesn't collect your information, and doesn't affect your insurance rates? i also may have forgotten to mention that its better in every single possible way 😉
+The "goal" of Driveology is to help new drivers develop safer driving habits by providing immediate, easy-to-understand feedback without requiring external hardware, paid APIs, or vehicle integrations. Like 20 minutes after I uploaded the repo, I realized theres an app that does the exact same freaking thing, and has the exact same name 😭😭😭😭😭😭😭😭 (it's located here: https://www.fbfs.com/insurance/auto-insurance/driveology ) However, the one I made is completely open source, doesn't collect your information, and doesn't affect your insurance rates i guess? i also may have forgotten to mention that its better in every single possible way 😉
 
 If you have any suggestions please email me, I would love to improve the app. 
 
@@ -152,17 +152,7 @@ to be able to access your app whenever you want. It will be at the bottom of you
 
 # Permissions
 
-Driveology requires the following permissions:
-
-### Location
-
-Used for speed calculation, route tracking, distance calculation, and speed limit detection.
-
-### Motion Sensors
-
-Used for hard brake and phone usage detection.
-
-Grant all permissions when prompted.
+Driveology requires access to location services, which is uses for speed calculation, route tracking, distance calculation, and speed limit detection (I swear I wont steal your data lol)
 
 ---
 
@@ -196,19 +186,21 @@ Stored information includes:
 - Phone usage events
 - Speeding events
 
-No trip data is uploaded to external servers.
+No trip data is uploaded to external servers ;)
 
 ---
 
 # Development Notes
 
-Driveology was developed as a Beta Club National Convention Invention project.
+Driveology was developed as a Beta Club National Convention Invention project. it's pretty crappy but it works somewhat lol
 
 The application was designed around three goals:
 
 1. Provide immediate driving feedback
 2. Operate using only smartphone sensors
 3. Avoid dependence on paid APIs or specialized hardware
+
+It accomplished these goals!
 
 ---
 
@@ -244,5 +236,3 @@ Idrk i was told to put something here but i don't really care who uses this code
 # Author
 
 Noah H. A.K.A. The Certified Chud
-
-Created for Beta Club National Convention Invention Competition.
